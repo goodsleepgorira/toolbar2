@@ -12,6 +12,9 @@
 		8845691D1CFEB2CC000DDDB5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8845691B1CFEB2CC000DDDB5 /* Main.storyboard */; };
 		8845691F1CFEB2CC000DDDB5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8845691E1CFEB2CC000DDDB5 /* Assets.xcassets */; };
 		884569221CFEB2CC000DDDB5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 884569201CFEB2CC000DDDB5 /* LaunchScreen.storyboard */; };
+		8845692C1CFEB38E000DDDB5 /* evening320.png in Resources */ = {isa = PBXBuildFile; fileRef = 884569291CFEB38E000DDDB5 /* evening320.png */; };
+		8845692D1CFEB38E000DDDB5 /* morning320.png in Resources */ = {isa = PBXBuildFile; fileRef = 8845692A1CFEB38E000DDDB5 /* morning320.png */; };
+		8845692E1CFEB38E000DDDB5 /* night320.png in Resources */ = {isa = PBXBuildFile; fileRef = 8845692B1CFEB38E000DDDB5 /* night320.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		8845691E1CFEB2CC000DDDB5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		884569211CFEB2CC000DDDB5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		884569231CFEB2CC000DDDB5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		884569291CFEB38E000DDDB5 /* evening320.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = evening320.png; sourceTree = "<group>"; };
+		8845692A1CFEB38E000DDDB5 /* morning320.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = morning320.png; sourceTree = "<group>"; };
+		8845692B1CFEB38E000DDDB5 /* night320.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = night320.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +63,9 @@
 				884569171CFEB2CC000DDDB5 /* AppDelegate.swift */,
 				884569191CFEB2CC000DDDB5 /* ViewController.swift */,
 				8845691B1CFEB2CC000DDDB5 /* Main.storyboard */,
+				884569291CFEB38E000DDDB5 /* evening320.png */,
+				8845692A1CFEB38E000DDDB5 /* morning320.png */,
+				8845692B1CFEB38E000DDDB5 /* night320.png */,
 				8845691E1CFEB2CC000DDDB5 /* Assets.xcassets */,
 				884569201CFEB2CC000DDDB5 /* LaunchScreen.storyboard */,
 				884569231CFEB2CC000DDDB5 /* Info.plist */,
@@ -124,6 +133,9 @@
 			files = (
 				884569221CFEB2CC000DDDB5 /* LaunchScreen.storyboard in Resources */,
 				8845691F1CFEB2CC000DDDB5 /* Assets.xcassets in Resources */,
+				8845692E1CFEB38E000DDDB5 /* night320.png in Resources */,
+				8845692C1CFEB38E000DDDB5 /* evening320.png in Resources */,
+				8845692D1CFEB38E000DDDB5 /* morning320.png in Resources */,
 				8845691D1CFEB2CC000DDDB5 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
